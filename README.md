@@ -1,7 +1,6 @@
 ## POSTMAN_REST_API_1
-### Testing the REST API of the PetFriends application using Postman
 
-Этот репозиторий содержит тестовый сценарий для приложения [Pet Friends](https://petfriends.skillfactory.ru/) из Postman, сохраненный в JSON. В коллекции используются входные данные из файла data_11.5.2.csv
+Этот репозиторий содержит сценарий тестирования REST API приложения [Pet Friends](https://petfriends.skillfactory.ru/) из Postman, сохраненный в JSON. В коллекции используются входные данные из файла data_11.5.2.csv
 
 1.	Get запрос. Получение API-ключа. Проверка статус-кода, проверка наличия ключа в теле ответа. Запись полученного API-ключа в переменную auth_key коллекции и авторизации. 
 
